@@ -1,0 +1,21 @@
+{
+  "version": "3.16.2",
+  "flags": {},
+  "shapes": [],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "20190306133824_0000000009.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
